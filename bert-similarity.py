@@ -5,8 +5,8 @@ from sentence_transformers import util
 
 model = sentence_transformers.SentenceTransformer('paraphrase-MiniLM-L6-v2')
 # Example paragraphs
-paragraph1 = constants.para1
-paragraph2 = constants.para3
+paragraph1 = dummy_data.para1
+paragraph2 = dummy_data.para3
 
 
 # Lowercasing
