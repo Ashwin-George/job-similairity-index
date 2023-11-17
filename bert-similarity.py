@@ -1,4 +1,4 @@
-import constants
+import dummy_data
 
 import sentence_transformers
 from sentence_transformers import util
